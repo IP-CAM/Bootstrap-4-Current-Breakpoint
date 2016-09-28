@@ -1,6 +1,7 @@
 # Bootstrap 4 Current Breakpoint
 Simple solution for display current breakpoint in Bootstrap 4
 
+![Bootstrap-4-Current-Breakpoint](/demo.gif)
 
 Put this HTML in your page
 ```html
